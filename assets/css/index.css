@@ -66,31 +66,8 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid white
 }
-
-@media screen and (max-width: 950px) {
-    #topnav {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-    #head {
-        height: 180px;
-    }
-
-}
-
-@media screen and (max-width: 1200px) {
-    #head {
-        height: 150px;
-    }
-
-
-}
-
 
 /* Background  */
 
@@ -101,10 +78,6 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-
-    animation-name: zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
 }
 
 /* Explore Section */
@@ -125,7 +98,7 @@ h1 {
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding-left: 10px;
   }
   
   .column {
@@ -169,6 +142,35 @@ h1 {
    #contact, #social2 {
     margin: 2%;
 }
+
+
+/* Responsive Styles */
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+      }
+    #topnav {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #head {
+        height: 180px;
+    }
+
+}
+
+@media screen and (max-width: 950px){
+.column {
+    margin: 0 auto;
+}
+}
+
 
 
 
