@@ -11,7 +11,7 @@
 }
 
 body {
-    font-family:'Montserrat', sans-serif;;
+    font-family:'Montserrat', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
@@ -68,6 +68,48 @@ h1 {
 .active {
     border-bottom: 1px solid white;
 }
+
+
+/* Background  */
+
+#background {
+    background-image: url(../images/Promo-Facebook-Facebook\ group\ cover.jpeg);
+    height: 500px;
+    background-position: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    animation-name: zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* @keyframes zoom {
+    from {
+        transform: scale(1);
+
+    }
+    to {
+transform: scale(1.1);
+    }
+
+} */
+
+/* Explore Section */
+
+#explore h1 {
+    
+    font-family:'Montserrat', sans-serif;
+    font-size: 200%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 1%;
+    text-decoration: underline black solid;
+    margin-top: 2px;
+    
+}
+
 
 
 
