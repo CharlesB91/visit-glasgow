@@ -85,21 +85,10 @@ h1 {
     animation-fill-mode: forwards;
 }
 
-/* @keyframes zoom {
-    from {
-        transform: scale(1);
-
-    }
-    to {
-transform: scale(1.1);
-    }
-
-} */
-
 /* Explore Section */
 
 #explore {
-    height: 600px;
+    height: 1000px;
 }
 
 #whatson {
@@ -110,6 +99,31 @@ transform: scale(1.1);
     
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  .column {
+    flex: 25%;
+    max-width: 24%;
+    padding:7px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+
+
+  /* footer */
+
+  footer {
+      height:200px;
+      background-color: #FB9300;
+  }
 
 
 
