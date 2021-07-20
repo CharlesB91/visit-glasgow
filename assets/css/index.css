@@ -151,6 +151,7 @@ h1 {
         flex: 100%;
         max-width: 100%;
         margin: 0 auto;
+        padding-right: 20px;
       }
     #topnav {
         clear: left;
@@ -161,6 +162,13 @@ h1 {
     }
     #head {
         height: 180px;
+    }
+    #logo {
+        float: left;
+        font-size: 140%;
+        padding: 5px;
+        margin-left: 10px;
+    
     }
 
 }
