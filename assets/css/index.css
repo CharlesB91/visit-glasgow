@@ -98,17 +98,18 @@ transform: scale(1.1);
 
 /* Explore Section */
 
-#explore h1 {
-    
-    font-family:'Montserrat', sans-serif;
-    font-size: 200%;
+#explore {
+    height: 600px;
+}
+
+#whatson {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    padding: 1%;
-    text-decoration: underline black solid;
-    margin-top: 2px;
     
 }
+
 
 
 
