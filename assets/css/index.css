@@ -145,47 +145,6 @@ h1 {
     margin: 2%;
 }
 
-
-/* Responsive Styles */
-
-@media screen and (max-width: 600px) {
-    .column {
-        flex: 100%;
-        max-width: 100%;
-        margin: 0 auto;
-        padding-right: 20px;
-      }
-    #topnav {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-    #logo {
-        float: left;
-        font-size: 140%;
-        padding: 5px;
-        margin-left: 10px;
-        
-    
-    }
-    #whatson {
-        font-size: 180%;
-    }
-
-}
-
-@media screen and (max-width: 950px){
-.column {
-    margin: 0 auto;
-}
-#head {
-    height: 170px;
-}
-}
-
-
 /* //////// EXPLORE PAGE ///////// */
 
 /* Background image & front text */
@@ -249,6 +208,60 @@ h1 {
     height: 90%;
     width: 700px
 }
+
+.container  p {
+    font-size: 130%;
+}
+.container2 p {
+    font-size: 130%;
+}
+
+/* Responsive Styles */
+
+
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        padding-right: 20px;
+      }
+    #topnav {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #logo {
+        float: left;
+        font-size: 140%;
+        padding: 5px;
+        margin-left: 10px;
+        
+    
+    }
+    #whatson {
+        font-size: 180%;
+    }
+
+}
+
+@media screen and (max-width: 950px){
+.column {
+    margin: 0 auto;
+}
+#head {
+    height: 170px;
+}
+
+}
+
+
+
+
+
 
 
 
