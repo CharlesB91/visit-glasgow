@@ -188,6 +188,8 @@ h1 {
 
 /* //////// EXPLORE PAGE ///////// */
 
+/* Background image & front text */
+
 #background2 {
     background-image: url(../images/museam.jpeg);
     height: 500px;
@@ -217,6 +219,48 @@ h1 {
         position: absolute;
 
 }
+
+/* Tourist Info Section */
+
+#tourist {
+    height: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-top: 1px solid #3a3a3a;
+}
+.container2 {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10px;
+    border-top: 1px solid #3a3a3a;
+
+}
+.container  p {
+    padding: 20px;
+}
+
+#image img {
+    height: 90%;
+    width: 700px
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
