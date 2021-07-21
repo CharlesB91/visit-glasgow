@@ -177,6 +177,9 @@ h1 {
 .column {
     margin: 0 auto;
 }
+#head {
+    height: 160px;
+}
 }
 
 
