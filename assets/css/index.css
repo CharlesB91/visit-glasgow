@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+/* //////// HOME PAGE ///////// */
 
 /* font-family: 'Zen Tokyo Zoo', cursive; */
 
@@ -182,6 +183,39 @@ h1 {
 #head {
     height: 170px;
 }
+}
+
+
+/* //////// EXPLORE PAGE ///////// */
+
+#background2 {
+    background-image: url(../images/museam.jpeg);
+    height: 500px;
+    background-position: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#background-text {
+
+        color: white;
+        font-size: 190%;
+        font-family:'Montserrat', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+    
+        width: 450px;
+        height: 200px;
+    
+        padding: 40px;
+    
+        background-color: rgba(241, 109,107, 7);
+    
+        bottom: 30px;
+        right: 30px;
+        position: absolute;
+
 }
 
 
