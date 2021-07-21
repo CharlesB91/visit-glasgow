@@ -203,6 +203,9 @@ h1 {
 .container  p {
     padding: 20px;
 }
+.container2  p {
+    padding: 20px;
+}
 
 #image img {
     height: 320px;
@@ -245,6 +248,26 @@ h1 {
     #whatson {
         font-size: 180%;
     }
+    .container {
+        flex-direction: column;
+    }
+    .container2 {
+        flex-direction: column;
+    }
+    .container  p {
+        padding: 0;
+    }
+    .container2  p {
+        padding: 0;
+    }
+    #image img {
+        height: 230px;
+        width: 300px
+    }
+    #background-text {
+        left: 0;
+    }
+
 
 }
 
@@ -254,6 +277,30 @@ h1 {
 }
 #head {
     height: 170px;
+}
+.container {
+    flex-direction: column;
+    text-align: left;
+}
+.container2 {
+    flex-direction: column;
+    text-align: left;
+}
+.container  p {
+    padding: 0;
+}
+.container2  p {
+    padding: 0;
+}
+#image img {
+    height: 230px;
+    width: 300px
+}
+#cover-text {
+    left: 0;
+}
+#background-text {
+    left: 0;
 }
 
 }
