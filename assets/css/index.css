@@ -302,7 +302,15 @@ h1 {
 #background-text {
     left: 0;
 }
+}
 
+@media screen and (max-width: 1024px){
+    .column {
+        margin: 0 auto;
+    }
+    #head {
+        height: 190px;
+}
 }
 
 
