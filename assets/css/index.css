@@ -73,7 +73,7 @@ h1 {
 
 /* Background  */
 
-#background {
+#background-top {
     background-image: url(../images/Promo-Facebook-Facebook\ group\ cover.jpeg);
     height: 500px;
     background-position: 80%;
@@ -267,6 +267,9 @@ h1 {
     #background-text {
         left: 0;
     }
+    #background2 {
+        background-position: top center;
+    }
 
 
 }
@@ -302,6 +305,7 @@ h1 {
 #background-text {
     left: 0;
 }
+
 }
 
 @media screen and (max-width: 1024px){
