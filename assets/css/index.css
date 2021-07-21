@@ -19,6 +19,7 @@ body {
 /* headings */
 h1 {
     font-family:'Zen Tokyo Zoo', cursive;
+    text-decoration: underline solid;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -160,15 +161,16 @@ h1 {
         margin-bottom: 20px;
         line-height: 25px;
     }
-    #head {
-        height: 180px;
-    }
     #logo {
         float: left;
         font-size: 140%;
         padding: 5px;
         margin-left: 10px;
+        
     
+    }
+    #whatson {
+        font-size: 180%;
     }
 
 }
@@ -178,7 +180,7 @@ h1 {
     margin: 0 auto;
 }
 #head {
-    height: 160px;
+    height: 170px;
 }
 }
 
