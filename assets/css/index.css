@@ -160,7 +160,7 @@ h1 {
 
 #background-text {
 
-        color: white;
+        color: #3a3a3a;
         font-size: 190%;
         font-family:'Montserrat', sans-serif;
         text-transform: uppercase;
@@ -171,7 +171,7 @@ h1 {
     
         padding: 40px;
     
-        background-color: rgba(241, 109,107, 7);
+        background-color:#FB9300; 
     
         bottom: 30px;
         right: 30px;
@@ -265,13 +265,11 @@ h1 {
         width: 300px
     }
     #background-text {
-        width: 250px;
-        height: 180px;
-        font-size: 120%;
         left: 0;
     }
     #background2 {
         background-position: top center;
+        
     }
 
 
@@ -329,26 +327,3 @@ h1 {
         height: 190px;
 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
