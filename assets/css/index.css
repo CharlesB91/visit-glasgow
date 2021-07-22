@@ -160,13 +160,13 @@ h1 {
 #background-text {
 
         color: #3a3a3a;
-        font-size: 190%;
+        font-size: 120%;
         font-family:'Montserrat', sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
     
-        width: 450px;
-        height: 200px;
+        width: 300px;
+        height: 150px;
     
         padding: 40px;
     
@@ -294,9 +294,9 @@ h1 {
     left: 0;
 }
 #background-text {
-    width: 250px;
-    height: 180px;
-    font-size: 120%;
+    width: 190px;
+    height: 100px;
+    font-size: 100%;
     left: 0;
 }
 #background2 {
