@@ -228,6 +228,7 @@ h1 {
 /* Responsive Styles */
 
 @media screen and (max-width: 600px) {
+
     .column {
         flex: 100%;
         max-width: 100%;
@@ -270,9 +271,7 @@ h1 {
 }
 
 @media screen and (max-width: 950px){
-#head {
-    height: 170px;
-}
+
 .container {
     flex-direction: column;
     text-align: left;
@@ -314,6 +313,6 @@ h1 {
 
 @media screen and (max-width: 1024px){
     #head {
-        height: 190px;
+        height: 180px;
 }
 }
