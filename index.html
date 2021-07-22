@@ -18,7 +18,27 @@
   </head>
   <body>
     <!-- Header & Nav Bar -->
-    <header id="head">
+    <header class="header">
+      <a href="index.html" class="logo">Visit Glasgow</a>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"
+        ><span class="navicon"></span
+      ></label>
+      <link rel="stylesheet" href="test.css" />
+      <ul class="menu">
+        <li><a href="index.html" aria-label="Link-to-home-screen">Home</a></li>
+        <li>
+          <a href="#events" aria-label="Link-to-events-calender">What's on</a>
+        </li>
+        <li>
+          <a href="explore.html" aria-label="Link-to-Explore(toursit)-section"
+            >Explore</a
+          >
+        </li>
+        <li><a href="#social" aria-label="Link-To-Social-Media">Social</a></li>
+      </ul>
+    </header>
+    <!-- <header id="head">
       <h1 id="logo">Visit Glasgow</h1>
       <ul id="topnav">
         <li>
@@ -37,7 +57,7 @@
         </li>
         <li><a href="#home" aria-label="Link-to-home-screen">Home</a></li>
       </ul>
-    </header>
+    </header> -->
 
     <!-- Background image -->
     <section>
@@ -194,6 +214,11 @@
           aria-label="Link-to-our-twitter-page"
           ><i class="fab fa-twitter-square"></i
         ></a>
+      </div>
+      <div id="news-letter">
+        <h2>News Letter</h2>
+        <h4>Stay Upto Date with Glasgow Events</h4>
+        <button id="button">Sign Up Now</button>
       </div>
     </footer>
   </body>
