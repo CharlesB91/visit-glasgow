@@ -151,7 +151,7 @@ h1 {
 
 #background2 {
     background-image: url(../images/museam.jpeg);
-    height: 500px;
+    height: 50vh;
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -199,20 +199,12 @@ h1 {
     border-top: 1px solid #3a3a3a;
 
 }
-#container img {
-    height: 100%;
-    width: 100%;
-}
+
 .container  p {
     padding: 20px;
 }
 .container2  p {
     padding: 20px;
-}
-
-#image img {
-    height: 320px;
-    width: 500px
 }
 
 .container  p {
@@ -223,8 +215,6 @@ h1 {
 }
 
 /* Responsive Styles */
-
-
 
 @media screen and (max-width: 600px) {
     .column {
