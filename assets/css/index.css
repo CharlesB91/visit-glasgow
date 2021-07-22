@@ -248,23 +248,9 @@ h1 {
         
     
     }
+
     #whatson {
         font-size: 180%;
-    }
-    .container {
-        flex-direction: column;
-    }
-    .container2 {
-        flex-direction: column;
-    }
-    .container  p {
-        padding: 0;
-    }
-    .container2  p {
-        padding: 0;
-    }
-    #background-text {
-        left: 0;
     }
     #background2 {
         background-position: top center;
