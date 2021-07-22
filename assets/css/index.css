@@ -34,7 +34,7 @@ h1 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 250%;
     padding: 5px;
     margin-left: 10px;
 
@@ -243,7 +243,6 @@ h1 {
     }
     #logo {
         float: left;
-        font-size: 140%;
         padding: 5px;
         margin-left: 10px;
         
@@ -319,6 +318,9 @@ h1 {
     background-position: top center;
 }
 #tourist h1 {
+    font-size: 150%;
+}
+#logo {
     font-size: 150%;
 }
 
