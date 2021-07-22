@@ -105,8 +105,8 @@ h1 {
   }
   
   .column {
-    flex: 25%;
-    max-width: 24%;
+    flex: 20%;
+    max-width: 50%;
     padding:7px;
   }
   
@@ -284,9 +284,6 @@ h1 {
 }
 
 @media screen and (max-width: 950px){
-.column {
-    margin: 0 auto;
-}
 #head {
     height: 170px;
 }
@@ -330,9 +327,6 @@ h1 {
 }
 
 @media screen and (max-width: 1024px){
-    .column {
-        margin: 0 auto;
-    }
     #head {
         height: 190px;
 }
