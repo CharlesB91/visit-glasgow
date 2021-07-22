@@ -115,12 +115,11 @@ h1 {
     width: 100%;
   }
 
-
-
   /* footer */
 
   footer {
       height:100%;
+      width: 100%;
       background-color: #FB9300;
       padding:20px;
       display: flex;
@@ -199,7 +198,11 @@ h1 {
     border-top: 1px solid #3a3a3a;
 
 }
-
+#image img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 400px;
+}
 .container  p {
     padding: 20px;
 }
@@ -260,6 +263,7 @@ h1 {
         background-position: top center;
         
     }
+    
 
 
 }
