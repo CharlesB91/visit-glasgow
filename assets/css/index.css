@@ -180,7 +180,15 @@ h1 {
 
 /* Tourist Info Section */
 
+#tourist h1 {
+    font-family:'Montserrat', sans-serif;
+    font-size: 280%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
 #tourist {
+    height: 100%;
     margin-bottom: 20px;
     padding: 20px;
 
@@ -304,6 +312,9 @@ h1 {
 }
 #background2 {
     background-position: top center;
+}
+#tourist h1 {
+    font-size: 150%;
 }
 
 }
