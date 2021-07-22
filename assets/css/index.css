@@ -182,7 +182,6 @@ h1 {
 /* Tourist Info Section */
 
 #tourist {
-    height: 100%;
     margin-bottom: 20px;
     padding: 20px;
 
@@ -199,6 +198,10 @@ h1 {
     padding: 10px;
     border-top: 1px solid #3a3a3a;
 
+}
+#container img {
+    height: 100%;
+    width: 100%;
 }
 .container  p {
     padding: 20px;
@@ -260,10 +263,6 @@ h1 {
     .container2  p {
         padding: 0;
     }
-    #image img {
-        height: 230px;
-        width: 300px
-    }
     #background-text {
         left: 0;
     }
@@ -295,10 +294,6 @@ h1 {
 }
 .container2  p {
     padding: 0;
-}
-#image img {
-    height: 230px;
-    width: 300px
 }
 #cover-text {
     left: 0;
