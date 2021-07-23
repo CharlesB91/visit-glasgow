@@ -350,6 +350,11 @@ body {
 /* Responsive Styles */
 
 @media screen and (max-width: 600px) {
+
+    .column {
+    flex: 100%;
+    max-width: 100%;
+    }
     #whatson {
         font-size: 180%;
     }
@@ -406,12 +411,5 @@ body {
 
 #visit {
   font-size: 200%;
-}
-
-}
-
-@media screen and (max-width: 1024px){
-    #head {
-        height: 180px;
 }
 }
