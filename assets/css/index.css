@@ -229,13 +229,25 @@ body {
     color: #3a3a3a;
 }
 
-   #social2, #news-letter, #footer-head {
+   #social2, #news-letter, #footer-head, #contact-link {
     padding: 10px;
     margin: 10px;
 }
 
 #signup {
   padding-top: 10px
+}
+
+.label {
+  font-family: inherit;
+  border: none;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  border-radius: 5%;
 }
 
 .button {
@@ -253,13 +265,13 @@ body {
   border-radius: 5%;
 }
 
-.button1 {
+.button {
   background-color: white; 
   color: black; 
   
 }
 
-.button1:hover {
+.button:hover {
   background-color: #3a3a3a;
   color: white;
 }
