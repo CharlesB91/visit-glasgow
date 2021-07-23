@@ -50,7 +50,7 @@ body {
     padding: 20px 20px;
     text-decoration: none;
     color: white;
-    font-size: 120%;
+    font-size: 100%;
   }
   
   .header li a:hover,
@@ -164,8 +164,8 @@ body {
 /* Background  */
 
 #background-top {
-    background-image: url(../images/Promo-Facebook-Facebook\ group\ cover.jpeg);
-    height: 500px;
+    background-image: url(../images/resized-image-Promo\ \(2\).jpeg);
+    height: 700px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -368,7 +368,7 @@ body {
         width: 320px;
     }
     #background-top {
-        background-position: 40%;
+      height: 500px;
     }
 
 }
@@ -410,6 +410,6 @@ body {
 }
 
 #visit {
-  font-size: 200%;
+  font-size: 150%;
 }
 }
