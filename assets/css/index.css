@@ -27,7 +27,7 @@ body {
     width: 100%;
     z-index: 3;
     padding: 10px;
-    height: 80px;
+    /* height: 80px; */
   }
   #visit {
     font-family:'Zen Tokyo Zoo', cursive;
