@@ -219,9 +219,9 @@ h1 {
    footer h2 {
       font-family: 'Zen Tokyo Zoo', cursive;
       font-size: 250%;
-      text-decoration: underline solid black;
       margin-bottom: 10px;
   }
+
 
   #social i {
     font-size: 180%;
@@ -229,8 +229,9 @@ h1 {
     color: #3a3a3a;
 }
 
-   #contact, #social2, #news-letter {
-    margin: 2%;
+   #social2, #news-letter, #footer-head {
+    padding: 10px;
+    margin: 10px;
 }
 
 #signup {
@@ -239,7 +240,6 @@ h1 {
 
 .button {
   font-family: inherit;
-  /* background-color: #4CAF50; Green */
   border: none;
   color: white;
   padding: 15px;
