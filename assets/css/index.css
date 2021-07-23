@@ -27,6 +27,7 @@ body {
     width: 100%;
     z-index: 3;
     padding: 10px;
+    height: 80px;
   }
   #visit {
     font-family:'Zen Tokyo Zoo', cursive;
@@ -50,7 +51,7 @@ body {
     padding: 20px 20px;
     text-decoration: none;
     color: white;
-    font-size: 100%;
+    font-size: 110%;
   }
   
   .header li a:hover,
