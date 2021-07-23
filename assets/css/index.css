@@ -26,6 +26,7 @@ body {
     position: fixed;
     width: 100%;
     z-index: 3;
+    padding: 10px;
   }
   #visit {
     font-family:'Zen Tokyo Zoo', cursive;
@@ -349,12 +350,6 @@ body {
 /* Responsive Styles */
 
 @media screen and (max-width: 600px) {
-
-  #visit {
-    font-size: 120%;
-  }
-
-
     #whatson {
         font-size: 180%;
     }
