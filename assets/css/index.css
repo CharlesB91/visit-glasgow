@@ -190,7 +190,6 @@ body {
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding-left: 10px;
   }
   
   .column {
@@ -354,6 +353,7 @@ body {
     .column {
     flex: 100%;
     max-width: 100%;
+    margin: 0 auto;
     }
     #whatson {
         font-size: 180%;
