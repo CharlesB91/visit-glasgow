@@ -19,12 +19,6 @@ body {
 }
 
 /* headings */
-h1 {
-    font-family:'Zen Tokyo Zoo', cursive;
-    text-decoration: underline solid;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
 
 .header {
     background-color:#BF1363;
@@ -33,12 +27,13 @@ h1 {
     width: 100%;
     z-index: 3;
   }
-  .logo {
+  #visit {
     font-family:'Zen Tokyo Zoo', cursive;
     text-decoration: underline solid;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: white;
+    color: white; 
+    font-size: 250%;
   }
   
   .header ul {
@@ -54,6 +49,7 @@ h1 {
     padding: 20px 20px;
     text-decoration: none;
     color: white;
+    font-size: 120%;
   }
   
   .header li a:hover,
@@ -64,7 +60,6 @@ h1 {
   .header .logo {
     display: block;
     float: left;
-    font-size: 2em;
     padding: 10px 20px;
     text-decoration: none;
   }
@@ -145,7 +140,8 @@ h1 {
   
   /* 48em = 768px */
   
-  @media (min-width: 48em) {
+  @media (min-width: 800px) {
+
     .header li {
       float: left;
     }
@@ -161,6 +157,9 @@ h1 {
       display: none;
     }
   }
+
+
+
 /* Background  */
 
 #background-top {
@@ -351,26 +350,10 @@ h1 {
 
 @media screen and (max-width: 600px) {
 
-    .column {
-        flex: 100%;
-        max-width: 100%;
-        margin: 0 auto;
-        padding-right: 20px;
-      }
-    #topnav {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-    #logo {
-        float: left;
-        padding: 5px;
-        margin-left: 10px;
-        
-    
-    }
+  #visit {
+    font-size: 120%;
+  }
+
 
     #whatson {
         font-size: 180%;
@@ -387,8 +370,6 @@ h1 {
     #background-top {
         background-position: 40%;
     }
-    
-
 
 }
 
@@ -418,7 +399,7 @@ h1 {
 #background-text {
     width: 190px;
     height: 100px;
-    font-size: 90%;
+    font-size: 80%;
     left: 0;
 }
 #background2 {
@@ -427,8 +408,9 @@ h1 {
 #tourist h1 {
     font-size: 150%;
 }
-#logo {
-    font-size: 150%;
+
+#visit {
+  font-size: 200%;
 }
 
 }
