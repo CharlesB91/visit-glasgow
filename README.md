@@ -68,8 +68,17 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 ### Resolved Bugs
 
 - Did encounter some bugs whilst buidling the site in particular the explore page when laying out images on either side of page when viewed on larger screens. Flex box would not allow me to display each image on either side easily with the text undernear of the topic ie glasgow bus tours. After some reacerch via w3 schools it was clear that i had to wrap the image and heading in a sepeate div from the paragraps. This then allowed me to position the images the way i wanted.
-- Nav bar did have some bugs when screen size was reduced - each nav iteam could not been seen. This was resolved by reducing the font size via media query.
+- Nav bar did have some bugs when screen size was reduced - all nav items could not be seen. This was resolved by reducing the font size via media query.
 
 ### Un-resolved Bugs
 
 - No un-resolved bugs.
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - https://charlesb91.github.io/visit-glasgow/
