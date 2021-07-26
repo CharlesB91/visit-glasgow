@@ -58,3 +58,18 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 ## Accessibility Testing
 
 - Google Lighthouse returned a report of 98 for accessibility (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+
+## Browser Testing
+
+- This site has been testing through various popular broswers for compatibility. These include, chrome, firefox, edge, safari.
+
+## Bugs
+
+### Resolved Bugs
+
+- Did encounter some bugs whilst buidling the site in particular the explore page when laying out images on either side of page when viewed on larger screens. Flex box would not allow me to display each image on either side easily with the text undernear of the topic ie glasgow bus tours. After some reacerch via w3 schools it was clear that i had to wrap the image and heading in a sepeate div from the paragraps. This then allowed me to position the images the way i wanted.
+- Nav bar did have some bugs when screen size was reduced - each nav iteam could not been seen. This was resolved by reducing the font size via media query.
+
+### Un-resolved Bugs
+
+- No un-resolved bugs.
