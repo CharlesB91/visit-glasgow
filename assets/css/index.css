@@ -361,11 +361,11 @@ body {
 
 @media screen and (max-width: 600px) {
 
-    .column {
+    /* .column {
     flex: 100%;
     max-width: 100%;
     margin: 0 auto;
-    }
+    } */
     #whatson {
         font-size: 180%;
     }
@@ -382,6 +382,11 @@ body {
 }
 
 @media screen and (max-width: 950px){
+  .column {
+    flex: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    }
 
   .header li a {
     font-size: 90%;
