@@ -173,7 +173,7 @@ body {
 .column {
   flex: 20%;
   max-width: 50%;
-  padding: 7px;
+  padding: 30px 10px;
 }
 
 .column img {
@@ -184,12 +184,12 @@ body {
 
 .column > a:link,
 .column a:visited {
-  color: black;
+  color: #3a3a3a;
   text-decoration: none;
 }
 
 .column > a:hover {
-  text-decoration: underline solid black;
+  text-decoration: underline solid #3a3a3a;
 }
 
 /* footer */
@@ -339,6 +339,16 @@ footer {
   padding: 10px;
 }
 
+#image a:link,
+#image > a:visited {
+  color: #3a3a3a;
+  text-decoration: none;
+}
+
+#image a:hover {
+  text-decoration: underline solid #3a3a3a;
+}
+
 /* Responsive Styles */
 
 @media (min-width: 800px) {
@@ -358,30 +368,13 @@ footer {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 950px) {
   .column {
-    flex: 100%;
-    max-width: 100%;
+    flex: 35%;
+    max-width: 70%;
     margin: 0 auto;
   }
-  #whatson {
-    font-size: 180%;
-  }
-  #background2 {
-    background-position: top center;
-    height: 500px;
-  }
-  #image img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 320px;
-  }
-  #background-top {
-    height: 500px;
-  }
-}
 
-@media screen and (max-width: 950px) {
   .header li a {
     font-size: 90%;
   }
@@ -418,5 +411,28 @@ footer {
 
   #visit {
     font-size: 150%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  #whatson {
+    font-size: 180%;
+  }
+  #background2 {
+    background-position: top center;
+    height: 500px;
+  }
+  #image img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 320px;
+  }
+  #background-top {
+    height: 500px;
   }
 }
