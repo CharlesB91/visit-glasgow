@@ -270,7 +270,7 @@ footer {
 
 #background2 {
   background-image: url(../images/museam.jpeg);
-  height: 500px;
+  height: 600px;
   background-position: 80%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -370,6 +370,7 @@ footer {
   }
   #background2 {
     background-position: top center;
+    height: 500px;
   }
   #image img {
     margin-top: 8px;
