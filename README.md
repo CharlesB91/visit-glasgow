@@ -4,7 +4,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 """"add mock up image""""
 
-### Features
+## Features
 
 ### Home Page
 
@@ -41,9 +41,9 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - This is focused more on the convential tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a seperate page.
 - Each section ie bus tour, kelvingrove art museam, glasgow museam has an accompanying image with some breif back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
 
-### Testing
+## Testing
 
-## Responsive Testing
+### Responsive Testing
 
 - This page has been through extensive testing through google grome developer tools so that any user using desktop, tablet, mobile devicie will have a great experiance seeing all the visual and text content but also to easily navigate through the site.
 
@@ -54,3 +54,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
   - This was 1 warning and this is due to the home background section being empty as there is no text needed and background image is loaded via css file
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## Assesibilty Testing
+
+- Google Lighthouse returned a report of 98 for accessibity (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
