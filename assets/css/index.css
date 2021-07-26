@@ -146,7 +146,7 @@ body {
 #background-top {
     background-image: url(../images/resized-image-Promo\ \(2\).jpeg);
     height: 500px;
-    background-position: center center;
+    background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -384,11 +384,7 @@ body {
 @media screen and (max-width: 950px){
 
   .header li a {
-    display: block;
-    padding: 20px 20px;
-    text-decoration: none;
-    color: white;
-    font-size: 80%;
+    font-size: 85%;
   }
   
 
