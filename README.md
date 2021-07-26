@@ -15,7 +15,8 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
   - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page.
 
-  """add image of nav """"
+  ![Nav-Open](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-full.PNG)
+  ![Nav-Closed](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-closed.PNG)
 
 **Home-Background-Image**
 
