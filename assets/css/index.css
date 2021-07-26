@@ -145,7 +145,7 @@ body {
 #background-top {
   background-image: url("../images/resized-image-Promo\ \(2\).jpeg");
   height: 600px;
-  background-position: center center;
+  background-position: center 40%;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -449,6 +449,10 @@ input {
   #visit {
     font-size: 150%;
   }
+
+  #news-area {
+    padding: 40px 0;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -460,7 +464,8 @@ input {
   #whatson {
     font-size: 180%;
   }
-  #background2 {
+  #background2,
+  #background-top {
     background-position: top center;
     height: 500px;
   }
@@ -468,8 +473,5 @@ input {
     margin-top: 8px;
     vertical-align: middle;
     width: 320px;
-  }
-  #background-top {
-    height: 500px;
   }
 }
