@@ -43,7 +43,8 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ### Features Left to Implement
 
-- Additional future features which will impove the sites cabibilty would be to add an interative map of the full city highlighting historical buildings, museams, popular venues.
+- Additional future features which will impove the sites capibilty would be to add an interative map of the full city highlighting historical buildings, museams, popular venues.
+- Additionally adding a section with food/drink venues within a carousel would inhance the site also.
 
 ## Testing
 
