@@ -263,7 +263,7 @@ body {
 
 #background2 {
     background-image: url(../images/museam.jpeg);
-    height: 50vh;
+    height: 500px;
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
