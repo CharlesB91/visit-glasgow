@@ -145,7 +145,7 @@ body {
 
 #background-top {
     background-image: url(../images/resized-image-Promo\ \(2\).jpeg);
-    height: 700px;
+    height: 500px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -377,9 +377,6 @@ body {
         margin-top: 8px;
         vertical-align: middle;
         width: 320px;
-    }
-    #background-top {
-      height: 500px;
     }
 
 }
