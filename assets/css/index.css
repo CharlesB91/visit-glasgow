@@ -386,6 +386,11 @@ input {
   font-size: 130%;
 }
 
+input[type="submit"]:hover {
+  background-color: #3a3a3a;
+  color: white;
+}
+
 /* Responsive Styles */
 
 @media (min-width: 800px) {

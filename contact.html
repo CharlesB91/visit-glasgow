@@ -53,6 +53,7 @@
             id="fname"
             name="firstname"
             placeholder="First Name"
+            required
           />
 
           <label class="label-text" for="lname">Last Name</label>
@@ -61,10 +62,17 @@
             id="lname"
             name="lastname"
             placeholder="Last Name"
+            required
           />
 
           <label class="label-text" for="email">Email Address</label>
-          <input type="email" />
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Email Address"
+            required
+          />
 
           <input class="news-submit" type="submit" value="Submit" />
         </form>
