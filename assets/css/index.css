@@ -226,18 +226,6 @@ footer {
   padding-top: 10px;
 }
 
-.label {
-  font-family: inherit;
-  border: none;
-  padding: 15px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 15px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  border-radius: 5%;
-}
-
 .button {
   font-family: inherit;
   border: none;
