@@ -59,6 +59,10 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 - Google Lighthouse returned a report of 98 for accessibility (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
+## User Experiance Testing
+
+- Asked family members to review my website on various devices on how they found the site. This included how well they navigated if they understood the general idea and concepts. Did receive positive feedback however it was pointed out that the links i have on the images would be better suited to the headings under the images. Have no made those changes.
+
 ## Browser Testing
 
 - This site has been testing through various popular broswers for compatibility. These include, chrome, firefox, edge, safari.
