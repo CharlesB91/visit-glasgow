@@ -27,15 +27,15 @@ body {
     width: 100%;
     z-index: 3;
     padding: 10px;
+    height: 80px;
   }
-
   #visit {
     font-family:'Zen Tokyo Zoo', cursive;
+    text-decoration: underline solid;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: white; 
     font-size: 250%;
-    text-decoration: none;
   }
   
   .header ul {
@@ -51,7 +51,7 @@ body {
     padding: 20px 20px;
     text-decoration: none;
     color: white;
-    font-size: 120%;
+    font-size: 110%;
   }
   
   .header li a:hover,
@@ -140,13 +140,34 @@ body {
     top: 0;
   }
   
+  /* 48em = 768px */
+  
+  @media (min-width: 800px) {
+
+    .header li {
+      float: left;
+    }
+    .header li a {
+      padding: 20px 30px;
+    }
+    .header .menu {
+      clear: none;
+      float: right;
+      max-height: none;
+    }
+    .header .menu-icon {
+      display: none;
+    }
+  }
+
+
 
 /* Background  */
 
 #background-top {
     background-image: url(../images/resized-image-Promo\ \(2\).jpeg);
-    height: 500px;
-    background-position: top center;
+    height: 700px;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -195,11 +216,10 @@ body {
 
   }
 
-   #social h2 {
+   footer h2 {
       font-family: 'Zen Tokyo Zoo', cursive;
       font-size: 250%;
       margin-bottom: 10px;
-      color: #3a3a3a;
   }
 
 
@@ -209,25 +229,13 @@ body {
     color: #3a3a3a;
 }
 
-   #social2, #news-letter, #footer-head, #contact-link {
+   #social2, #news-letter, #footer-head {
     padding: 10px;
     margin: 10px;
 }
 
 #signup {
   padding-top: 10px
-}
-
-.label {
-  font-family: inherit;
-  border: none;
-  padding: 15px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 15px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  border-radius: 5%;
 }
 
 .button {
@@ -245,13 +253,13 @@ body {
   border-radius: 5%;
 }
 
-.button {
+.button1 {
   background-color: white; 
   color: black; 
   
 }
 
-.button:hover {
+.button1:hover {
   background-color: #3a3a3a;
   color: white;
 }
@@ -263,7 +271,7 @@ body {
 
 #background2 {
     background-image: url(../images/museam.jpeg);
-    height: 500px;
+    height: 50vh;
     background-position: 80%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -341,24 +349,6 @@ body {
 
 /* Responsive Styles */
 
-@media (min-width: 800px) {
- 
-  .header li {
-    float: left;
-  }
-  .header li a {
-    padding: 20px 30px;
-  }
-  .header .menu {
-    clear: none;
-    float: right;
-    max-height: none;
-  }
-  .header .menu-icon {
-    display: none;
-  } 
-}
-
 @media screen and (max-width: 600px) {
 
     .column {
@@ -378,15 +368,13 @@ body {
         vertical-align: middle;
         width: 320px;
     }
+    #background-top {
+      height: 500px;
+    }
 
 }
 
 @media screen and (max-width: 950px){
-
-  .header li a {
-    font-size: 90%;
-  }
-  
 
 .container {
     flex-direction: column;
