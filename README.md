@@ -40,3 +40,11 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - This page has been created to inform the user of the various tours, museams, historic glasgoe university.
 - This is focused more on the convential tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a seperate page.
 - Each section ie bus tour, kelvingrove art museam, glasgow museam has an accompanying image with some breif back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
+
+## Testing
+
+## Responsive Testing
+
+- This page has been through extensive testing through google grome developer tools so that any user using desktop, tablet, mobile devicie will have a great experiance seeing all the visual and text content but also to easily navigate through the site.
+
+### Validator Testing
