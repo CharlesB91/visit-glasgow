@@ -19,33 +19,33 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 **Home-Background-Image**
 
-- This section includes a photograph of the icon People make glasgow building which in centered in the middle of the city.
+- This section includes a photograph of the icon People make Glasgow building which in centred in the middle of the city.
 - This image is very eye catching and speaks the true values of the city and its people.
 
 """"add image of background""""
 
 **What's On Section**
 
-- This section is an area which will tell the user all of the fun/interesting events that are happening in the city. This ranges from drinks festival, music festivals, mini golf, art, food festival. This section covers various types of events which is attrative to call.
+- This section is an area which will tell the user all of the fun/interesting events that are happening in the city. This ranges from drinks festival, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to call.
 - Each events provides a thumb nail photo and also a link is provided on the event its self so this will take the user to a direct site of that event if they wish to book tickets.
 
 **The Footer**
 
 - The footer section includes links to the relevant social media sites for Visit Glasgow. The links will open to a new tab to allow easy navigation for the user.
-- The footer also includs a news letter sign up form where they need to enter their email address and click the sign up button.
-  - The footer can be viwed in the home page and explore page via the navigation bar.
+- The footer also includes a news letter sign up form where they need to enter their email address and click the sign up button.
+  - The footer can be viewed in the home page and explore page via the navigation bar.
 
 ### Explore Page
 
-- This page has been created to inform the user of the various tours, museams, historic glasgoe university.
-- This is focused more on the convential tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a seperate page.
-- Each section ie bus tour, kelvingrove art museam, glasgow museam has an accompanying image with some breif back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
+- This page has been created to inform the user of the various tours, museums, historic Glasgow university.
+- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
+- Each section ie bus tour, Kelvingrove art museum, Glasgow museum has an accompanying image with some brief back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
 
 ## Testing
 
 ### Responsive Testing
 
-- This page has been through extensive testing through google grome developer tools so that any user using desktop, tablet, mobile devicie will have a great experiance seeing all the visual and text content but also to easily navigate through the site.
+- This page has been through extensive testing through google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also to easily navigate through the site.
 
 ### Validator Testing
 
@@ -55,6 +55,6 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-## Assesibilty Testing
+## Accessibility Testing
 
-- Google Lighthouse returned a report of 98 for accessibity (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+- Google Lighthouse returned a report of 98 for accessibility (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
