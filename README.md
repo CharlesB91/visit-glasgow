@@ -41,6 +41,10 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
 - Each section ie bus tour, Kelvingrove art museum, Glasgow museum has an accompanying image with some brief back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
 
+### Features Left to Implement
+
+- Additional future features which will impove the sites cabibilty would be to add an interative map of the full city highlighting historical buildings, museams, popular venues.
+
 ## Testing
 
 ### Responsive Testing
@@ -55,15 +59,15 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-## Accessibility Testing
+### Accessibility Testing
 
 - Google Lighthouse returned a report of 98 for accessibility (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
-## User Experiance Testing
+### User Experiance Testing
 
 - Asked family members to review my website on various devices on how they found the site. This included how well they navigated if they understood the general idea and concepts. Did receive positive feedback however it was pointed out that the links i have on the images would be better suited to the headings under the images. Have no made those changes.
 
-## Browser Testing
+### Browser Testing
 
 - This site has been testing through various popular broswers for compatibility. These include, chrome, firefox, edge, safari.
 
@@ -86,3 +90,10 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://charlesb91.github.io/visit-glasgow/
+
+## Credits
+
+- There has been various sources of credit used for this site.
+- The main being the responsive hamburger nav bar. Orginally i had a responsive nav bar however list options did not transform into the current hamgburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
+- For the above example the source code did have to styled accordinly to how site was to be displayed with font, background colour etc.
+- For the whats on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
