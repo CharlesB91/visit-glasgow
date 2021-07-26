@@ -1,221 +1,220 @@
-@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 /* //////// HOME PAGE ///////// */
 
 /* font-family: 'Zen Tokyo Zoo', cursive; */
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
+  margin: 0;
+  padding: 0;
+  border: none;
 }
 
 body {
-    font-family:'Montserrat', sans-serif;
-    font-weight: 300;
-    color: #3a3a3a;
-    width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  color: #3a3a3a;
+  width: 100%;
 }
 
 /* headings */
 
 .header {
-    background-color:#BF1363;
-    box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-    position: fixed;
-    width: 100%;
-    z-index: 3;
-    padding: 10px;
-  }
+  background-color: #bf1363;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  padding: 10px;
+}
 
-  #visit {
-    font-family:'Zen Tokyo Zoo', cursive;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: white; 
-    font-size: 250%;
-    text-decoration: none;
-  }
-  
-  .header ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    overflow: hidden;
-    background-color: #BF1363;
-  }
-  
-  .header li a {
-    display: block;
-    padding: 20px 20px;
-    text-decoration: none;
-    color: white;
-    font-size: 120%;
-  }
-  
-  .header li a:hover,
-  .header .menu-btn:hover {
-    text-decoration: underline solid white;
-  }
-  
-  .header .logo {
-    display: block;
-    float: left;
-    padding: 10px 20px;
-    text-decoration: none;
-  }
-  
-  /* menu */
-  
-  .header .menu {
-    clear: both;
-    max-height: 0;
-    transition: max-height .2s ease-out;
-  }
-  
-  /* menu icon */
-  
-  .header .menu-icon {
-    cursor: pointer;
-    display: inline-block;
-    float: right;
-    padding: 28px 20px;
-    position: relative;
-    user-select: none;
-  }
-  
-  .header .menu-icon .navicon {
-    background: white;
-    display: block;
-    height: 2px;
-    position: relative;
-    transition: background .2s ease-out;
-    width: 18px;
-  }
-  
-  .header .menu-icon .navicon:before,
-  .header .menu-icon .navicon:after {
-    background: white;
-    content: '';
-    display: block;
-    height: 100%;
-    position: absolute;
-    transition: all .2s ease-out;
-    width: 100%;
-  }
-  
-  .header .menu-icon .navicon:before {
-    top: 5px;
-  }
-  
-  .header .menu-icon .navicon:after {
-    top: -5px;
-  }
-  
-  /* menu btn */
-  
-  .header .menu-btn {
-    display: none;
-  }
-  
-  .header .menu-btn:checked ~ .menu {
-    max-height: 240px;
-  }
-  
-  .header .menu-btn:checked ~ .menu-icon .navicon {
-    background: transparent;
-  }
-  
-  .header .menu-btn:checked ~ .menu-icon .navicon:before {
-    transform: rotate(-45deg);
-  }
-  
-  .header .menu-btn:checked ~ .menu-icon .navicon:after {
-    transform: rotate(45deg);
-  }
-  
-  .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
-  .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
-    top: 0;
-  }
-  
+#visit {
+  font-family: "Zen Tokyo Zoo", cursive;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: white;
+  font-size: 250%;
+  text-decoration: none;
+}
+
+.header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: #bf1363;
+}
+
+.header li a {
+  display: block;
+  padding: 20px 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 120%;
+}
+
+.header li a:hover,
+.header .menu-btn:hover {
+  text-decoration: underline solid white;
+}
+
+.header .logo {
+  display: block;
+  float: left;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* menu */
+
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
+}
+
+/* menu icon */
+
+.header .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.header .menu-icon .navicon {
+  background: white;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background 0.2s ease-out;
+  width: 18px;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+  background: white;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all 0.2s ease-out;
+  width: 100%;
+}
+
+.header .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.header .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.header .menu-btn {
+  display: none;
+}
+
+.header .menu-btn:checked ~ .menu {
+  max-height: 240px;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
 
 /* Background  */
 
 #background-top {
-    background-image: url(../images/resized-image-Promo\ \(2\).jpeg);
-    height: 600px;
-    background-position: top center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+  background-image: url("../images/resized-image-Promo\ \(2\).jpeg");
+  height: 600px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 /* Explore Section */
 
 #explore {
-    height: 100%;
-    margin-bottom: 20px;
+  height: 100%;
+  margin-bottom: 20px;
 }
 
 #whatson {
-    text-align: center;
-    margin: 20px 0;
-    font-size: 280%;
-    text-transform: uppercase;
-    
+  text-align: center;
+  margin: 20px 0;
+  font-size: 280%;
+  text-transform: uppercase;
 }
 
 .row {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .column {
-    flex: 20%;
-    max-width: 50%;
-    padding:7px;
-  }
-  
-  .column img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 100%;
-  }
-
-  /* footer */
-
-  footer {
-      height:100%;
-      width: 100%;
-      background-color: #FB9300;
-      display: flex;
-      flex-wrap: wrap;
-
-  }
-
-   #social h2 {
-      font-family: 'Zen Tokyo Zoo', cursive;
-      font-size: 250%;
-      margin-bottom: 10px;
-      color: #3a3a3a;
-  }
-
-
-  #social i {
-    font-size: 180%;
-    margin: 1%;
-    color: #3a3a3a;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-   #social2, #news-letter, #footer-head, #contact-link {
-    padding: 10px;
-    margin: 10px;
+.column {
+  flex: 20%;
+  max-width: 50%;
+  padding: 7px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* footer */
+
+footer {
+  height: 100%;
+  width: 100%;
+  background-color: #fb9300;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#social h2 {
+  font-family: "Zen Tokyo Zoo", cursive;
+  font-size: 250%;
+  margin-bottom: 10px;
+  color: #3a3a3a;
+}
+
+#social i {
+  font-size: 180%;
+  margin: 1%;
+  color: #3a3a3a;
+}
+
+#social2,
+#news-letter,
+#footer-head,
+#contact-link {
+  padding: 10px;
+  margin: 10px;
 }
 
 #signup {
-  padding-top: 10px
+  padding-top: 10px;
 }
 
 .label {
@@ -246,9 +245,8 @@ body {
 }
 
 .button {
-  background-color: white; 
-  color: black; 
-  
+  background-color: white;
+  color: black;
 }
 
 .button:hover {
@@ -256,93 +254,85 @@ body {
   color: white;
 }
 
-
 /* //////// EXPLORE PAGE ///////// */
 
 /* Background image & front text */
 
 #background2 {
-    background-image: url(../images/museam.jpeg);
-    height: 500px;
-    background-position: 80%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+  background-image: url(../images/museam.jpeg);
+  height: 500px;
+  background-position: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 #background-text {
+  color: #3a3a3a;
+  font-size: 120%;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
 
-        color: #3a3a3a;
-        font-size: 120%;
-        font-family:'Montserrat', sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 4px;
-    
-        width: 400px;
-        height: 100px;
-    
-        padding: 20px;
-    
-        background-color:#FB9300; 
-    
-        bottom: 30px;
-        right: 30px;
-        position: absolute;
+  width: 400px;
+  height: 100px;
 
+  padding: 20px;
+
+  background-color: #fb9300;
+
+  bottom: 30px;
+  right: 30px;
+  position: absolute;
 }
 
 /* Tourist Info Section */
 
 #tourist h1 {
-    font-family:'Montserrat', sans-serif;
-    font-size: 200%;
-    margin-bottom: 20px;
-    text-align: center;
-    padding-top: 10px;
-    text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-size: 200%;
+  margin-bottom: 20px;
+  text-align: center;
+  padding-top: 10px;
+  text-transform: uppercase;
 }
 
 #tourist {
-    height: 100%;
-    width: 100%;
-    margin-bottom: 20px;
-    margin: 0 auto;
-
+  height: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+  margin: 0 auto;
 }
 .container {
-    display: flex;
-    flex-direction: row;
-    border-top: 1px solid #3a3a3a;
-    padding: 10px;
-    
+  display: flex;
+  flex-direction: row;
+  border-top: 1px solid #3a3a3a;
+  padding: 10px;
 }
 .container2 {
-    display: flex;
-    flex-direction: row-reverse;
-    border-top: 1px solid #3a3a3a;
-    padding: 10px;
-
+  display: flex;
+  flex-direction: row-reverse;
+  border-top: 1px solid #3a3a3a;
+  padding: 10px;
 }
 #image img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 400px;
-    
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 400px;
 }
 
-.container  p {
-    font-size: 130%;
-    padding: 10px;
+.container p {
+  font-size: 130%;
+  padding: 10px;
 }
 .container2 p {
-    font-size: 130%;
-    padding: 10px;
+  font-size: 130%;
+  padding: 10px;
 }
 
 /* Responsive Styles */
 
 @media (min-width: 800px) {
- 
   .header li {
     float: left;
   }
@@ -356,73 +346,67 @@ body {
   }
   .header .menu-icon {
     display: none;
-  } 
+  }
 }
 
 @media screen and (max-width: 600px) {
-
-    .column {
+  .column {
     flex: 100%;
     max-width: 100%;
     margin: 0 auto;
-    }
-    #whatson {
-        font-size: 180%;
-    }
-    #background2 {
-        background-position: top center;
-        
-    }
-    #image img {
-        margin-top: 8px;
-        vertical-align: middle;
-        width: 320px;
-    }
-
+  }
+  #whatson {
+    font-size: 180%;
+  }
+  #background2 {
+    background-position: top center;
+  }
+  #image img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 320px;
+  }
 }
 
-@media screen and (max-width: 950px){
-
+@media screen and (max-width: 950px) {
   .header li a {
     font-size: 90%;
   }
-  
 
-.container {
+  .container {
     flex-direction: column;
     text-align: left;
-}
-.container2 {
+  }
+  .container2 {
     flex-direction: column;
     text-align: left;
-}
-.container  p {
+  }
+  .container p {
     padding: 0;
-}
-.container2  p {
+  }
+  .container2 p {
     padding: 0;
-}
-#cover-text {
+  }
+  #cover-text {
     left: 0;
-}
-#background-text {
-    
+  }
+  #background-text {
     left: 0;
-}
-#background-text {
+  }
+  #background-text {
     width: 190px;
     height: 100px;
     font-size: 80%;
     left: 0;
-}
-#background2 {
+  }
+  #background2 {
     background-position: top center;
-}
-#tourist h1 {
+  }
+  #tourist h1 {
     font-size: 150%;
-}
+  }
 
-#visit {
-  font-size: 150%;
-}
+  #visit {
+    font-size: 150%;
+  }
 }
