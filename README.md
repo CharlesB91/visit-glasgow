@@ -32,4 +32,11 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
   - **The Footer**
 
   - The footer section includes links to the relevant social media sites for Visit Glasgow. The links will open to a new tab to allow easy navigation for the user.
-  - The footer also included a news letter sign up form where they need to enter their email address and click the sign up button.
+  - The footer also includs a news letter sign up form where they need to enter their email address and click the sign up button.
+    - The footer can be viwed in the home page and explore page via the navigation bar.
+
+### Explore Page
+
+- This page has been created to inform the user of the various tours, museams, historic glasgoe university.
+- This is focused more on the convential tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a seperate page.
+- Each section ie bus tour, kelvingrove art museam, glasgow museam has an accompanying image with some breif back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
