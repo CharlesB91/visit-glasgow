@@ -44,6 +44,8 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
 - Each section ie bus tour, Kelvingrove art museum, Glasgow museum has an accompanying image with some brief back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
 
+![Explore-tourist-info](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/get-exploring-mockup.PNG)
+
 **The Footer**
 
 - The footer section includes links to the relevant social media sites for Visit Glasgow. The links will open to a new tab to allow easy navigation for the user.
