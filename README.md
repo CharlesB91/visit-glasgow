@@ -27,6 +27,10 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 **What's On Section**
 
+- The background image for this section features the famous floating heads. This is also captured with a text box encourging visitors to look further into what toursit attractions the city has to offer.
+
+![Explore-Background](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/background-2-mockup.PNG)
+
 - This section is an area which will tell the user all of the fun/interesting events that are happening in the city. This ranges from drinks festival, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to call.
 - Each events provides a thumb nail photo and also a link is provided on the event its self so this will take the user to a direct site of that event if they wish to book tickets.
 
