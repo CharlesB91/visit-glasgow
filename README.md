@@ -25,6 +25,13 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ![Home-Background](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/home-background.PNG)
 
+### Whats-On-Section
+
+- This section is an area which will tell the user all of the fun/interesting events that are happening in the city. This ranges from drinks festival, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to call.
+- Each events provides a thumb nail photo and also a link is provided on the event its self so this will take the user to a direct site of that event if they wish to book tickets.
+
+![Whats-on](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/whats-on-mockup.PNG)
+
 ### Explore Page
 
 **Explore-Background-Image**
@@ -33,12 +40,9 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ![Explore-Background](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/background-2-mockup.PNG)
 
-**tourist-attraction-section**
-
-- This section is an area which will tell the user all of the fun/interesting events that are happening in the city. This ranges from drinks festival, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to call.
-- Each events provides a thumb nail photo and also a link is provided on the event its self so this will take the user to a direct site of that event if they wish to book tickets.
-
-![Explore-tourist-attraction](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/get-exploring-mockup.PNG)
+- This page has been created to inform the user of the various tours, museums, historic Glasgow university.
+- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
+- Each section ie bus tour, Kelvingrove art museum, Glasgow museum has an accompanying image with some brief back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
 
 **The Footer**
 
@@ -47,15 +51,9 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
   - The footer can be viewed in the home page and explore page via the navigation bar.
 
-  **News Letter Page**
+**News Letter Page**
 
-### Explore Page
-
-- This page has been created to inform the user of the various tours, museums, historic Glasgow university.
-- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
-- Each section ie bus tour, Kelvingrove art museum, Glasgow museum has an accompanying image with some brief back-ground text to inform the user of what to expect. These images also contain links if the user wishes to book tickets.
-
-### Features Left to Implement
+## Features Left to Implement
 
 - Additional future features which will impove the sites capibilty would be to add an interative map of the full city highlighting historical buildings, museams, popular venues.
 - Additionally adding a section with food/drink venues within a carousel would inhance the site also.
