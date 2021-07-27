@@ -128,3 +128,12 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 - For the responsive hamburger nav bar. Orginally the nav bar was responsive however the list options did not transform into the current hamgburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
 - For the above example the source code, this has to be styled accordinly to how site was to be displayed with font, background colour.
 - For the whats on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
+
+## Content
+
+- Text used in the explore seaction was taken from various sources -
+- Glasgow University - (https://en.wikipedia.org/wiki/University_of_Glasgow)
+- Kelvingrove Art Museam - https://en.wikipedia.org/wiki/Kelvingrove_Art_Gallery_and_Museum
+- Glasgow Sightseeing - (https://peoplemakeglasgow.com/things-to-do/tours)
+
+  ## Media
