@@ -46,12 +46,14 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ![Explore-tourist-info](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/get-exploring-mockup.PNG)
 
-**The Footer**
+### The Footer
 
 - The footer section includes links to the relevant social media sites for Visit Glasgow. The links will open to a new tab to allow easy navigation for the user.
 - The footer also includes a news letter sign up form where they need to enter their email address and click the sign up button.
 
   - The footer can be viewed in the home page and explore page via the navigation bar.
+
+![Footer-image](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/footer-mockp.PNG)
 
 **News Letter Page**
 
