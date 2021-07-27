@@ -226,7 +226,8 @@ footer {
   padding-top: 10px;
 }
 
-.button {
+.signup-submit {
+  width: 150px;
   font-family: inherit;
   border: none;
   color: white;
@@ -241,12 +242,12 @@ footer {
   border-radius: 5%;
 }
 
-.button {
+.signup-submit {
   background-color: white;
   color: black;
 }
 
-.button:hover {
+.signup-submit:hover {
   background-color: #3a3a3a;
   color: white;
 }
