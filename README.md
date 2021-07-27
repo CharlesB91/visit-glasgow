@@ -23,7 +23,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - This section includes a photograph of the icon People make Glasgow building which in centred in the middle of the city.
 - This image is very eye catching and speaks the true values of the city and its people.
 
-![Home-Background] (https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/home-background.PNG)
+![Home-Background](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/home-background.PNG)
 
 **What's On Section**
 
