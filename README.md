@@ -78,7 +78,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ### Responsive Testing
 
-- This page has been through extensive testing through google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also to easily navigate through the site.
+- This page has been through extensive testing through google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also easily navigate through the site.
 
 ### Validator Testing
 
@@ -94,7 +94,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ### User Experiance Testing
 
-- Asked family members to review my website on various devices on how they found the site. This included how well they navigated if they understood the general idea and concepts. Did receive positive feedback however it was pointed out that the links i have on the images would be better suited to the headings under the images. Have no made those changes.
+- Asked family members to review my website on various devices on how they found the site. This included how well they navigated if they understood the general idea and concepts. Did receive positive feedback however it was pointed out that the links i have on the images would be better suited to the headings under the images. Have now made those changes.
 
 ### Browser Testing
 
@@ -123,6 +123,8 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 ## Credits
 
 - There has been various sources of credit used for this site.
-- The main being the responsive hamburger nav bar. Orginally i had a responsive nav bar however list options did not transform into the current hamgburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
-- For the above example the source code did have to styled accordinly to how site was to be displayed with font, background colour etc.
+- Font choice was taking from google fonts (https://fonts.google.com/). There was two main fonts used in the site for heads and paragrapgs which had effective contrsasting features - "Montserrat", sans-serif;, "Zen Tokyo Zoo", cursive;
+- There was 3 main colour choices taken from (https://colorhunt.co/) which helped outline the nav bar, footer and sign up page and finally text. #bf1363; #fb9300; #3a3a3a
+- For the responsive hamburger nav bar. Orginally the nav bar was responsive however the list options did not transform into the current hamgburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
+- For the above example the source code, this has to be styled accordinly to how site was to be displayed with font, background colour.
 - For the whats on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
