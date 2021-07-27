@@ -55,7 +55,9 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ![Footer-image](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/footer-mockp.PNG)
 
-**News Letter Page**
+### News Letter Page
+
+- This seciton allows the user to sign up to the weekly news letter offered. The fields requird are first name, surname, email address with an accompanying submit button.
 
 ## Features Left to Implement
 
