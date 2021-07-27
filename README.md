@@ -13,7 +13,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 - Featured on all two pages, the full responsive navigation bar includes links to Home page, Explore page and is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-  - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page.
+  - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page. This fixture also colapses into a hamburger icon when the screen width is reduced to mobile screen size
 
   ![Nav-Open](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-full.PNG)
   ![Nav-Closed](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-closed.PNG)
