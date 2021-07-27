@@ -57,6 +57,12 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 ### News Letter Page
 
+**News letter Backgroind**
+
+- This includes a photo of the famous buchanan street full of designer high end stores which can be seen packed with shoppers
+
+![Buchanan-Street](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/Buchanan-street.PNG)
+
 - This seciton allows the user to sign up to the weekly news letter offered. The fields requird are first name, surname, email address with an accompanying submit button.
 - This features a basic sign up highlighted in the same colour as the footer. This sigh up form is not fully functional as backend technologies will be required which are outside the scope of this project.
 
