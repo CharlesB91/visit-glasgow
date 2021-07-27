@@ -136,4 +136,8 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 - Kelvingrove Art Museam - https://en.wikipedia.org/wiki/Kelvingrove_Art_Gallery_and_Museum
 - Glasgow Sightseeing - (https://peoplemakeglasgow.com/things-to-do/tours)
 
-  ## Media
+## Media
+
+- Images in the background image for the home, explore & sign up page were sourced from (https://unsplash.com/)
+- Images used in the whats on section & explore tourist info section were sourced from (https://www.whatsonglasgow.co.uk/)
+- Backround images had to be resized using (https://promo.com/tools/image-resizer/)
