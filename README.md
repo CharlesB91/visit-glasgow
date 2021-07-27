@@ -66,6 +66,7 @@ Visit Glasgow is a webpage in which i have created to inform foreign tourists, n
 
 - Additional future features which will impove the sites capibilty would be to add an interative map of the full city highlighting historical buildings, museams, popular venues.
 - Additionally adding a section with food/drink venues within a carousel would inhance the site also.
+- Lastly backend technologys would make the news letter sign up page fully functional.
 
 ## Testing
 
