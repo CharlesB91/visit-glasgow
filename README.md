@@ -116,7 +116,7 @@ The aim of this website is to target forigen toursits visiting the city, natives
 
 ### Accessibility Testing
 
-- Google Lighthouse returned a report of 98 for accessibility (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+- Google Lighthouse returned a report of 98 for accessibility for each page. (https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
 ### User Experience Testing
 
