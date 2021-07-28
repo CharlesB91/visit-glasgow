@@ -61,7 +61,7 @@ Visit Glasgow is a site which has been designed to inform foreign tourists, nati
 
 **Newsletter Background**
 
-- This includes a photo of the famous Buchanan Street which full of designer high-end designer stores which can be seen packed with shoppers
+- This includes a photo of the famous Buchanan Street which full of high-end designer stores which can be seen packed with shoppers
 
 ![Buchanan-Street](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/Buchanan-street.PNG)
 
