@@ -313,7 +313,7 @@ footer {
   border-top: 1px solid #3a3a3a;
   padding: 10px;
 }
-#image img {
+.image img {
   margin-top: 8px;
   vertical-align: middle;
   width: 400px;
