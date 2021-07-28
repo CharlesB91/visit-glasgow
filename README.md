@@ -10,7 +10,7 @@ Visit Glasgow is a site which has been designed to inform foreign tourists, nati
 
 **Navigation Bar**
 
-- Featured on all 3 pages, the full responsive navigation bar includes links to Home page, What’s on section, Explore page and finally the social section. This is identical in each page to allow for easy navigation.
+- Featured on all 3 pages, the full responsive navigation bar includes links to Home page, Explore, News Letter Explore page section. This is identical in each page to allow for easy navigation.
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page. This fixture also collapses into a hamburger icon when the screen width is reduced to mobile screen size.
 - The particular bold colour which been chosen compliments the famous people make Glasgow image below the navigation bar.
