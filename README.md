@@ -14,8 +14,8 @@ The aim of this website is to target forigen toursits visiting the city, natives
 
 ### Business Goals
 
-- To keep users well informed on what the city has to offer. By the eye catching UX design this will lead them to the news letter sign up page at the footer.
-- To provide a one stop shop for anyone looking to visit glasgow whom are curious on the events & tourist attactions.
+- To keep users well informed on what the city has to offer by the eye catching UX design this will lead them to the news letter sign up page at the footer.
+- To provide a one stop shop for anyone looking to visit glasgow who are curious on the events & tourist attactions and want to get involved
 
 ### Client Goals
 
