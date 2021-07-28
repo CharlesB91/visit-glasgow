@@ -1,8 +1,26 @@
 # Visit Glasgow
 
-Visit Glasgow is a site which has been designed to inform foreign tourists, natives and the general public on events being hosted in the city of Glasgow. This also includes details on the main tourist attractions the city has to offer which attracts visitors from all over the globe. This site is particularly useful as it provides direct links to the various events & tourist attractive but ultimately gives you a vibe on how exiting the city is.
+Visit Glasgow is a site which has been designed inform users on events being hosted in the city of Glasgow. This also includes details on the main tourist attractions the city has to offer which attracts visitors from all over the globe. This site is particularly useful as it provides direct links to the various events & tourist attractive but ultimately gives you a vibe on how exiting the city is.
+
+The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 
 ![Responsive Mockup](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/mockup-home.PNG)
+
+## Aim
+
+The aim of this website is to target forigen toursits visiting the city, natives and the general public who may wish to visit the city and take part in the many events Glasgow has to offer
+
+## Goals
+
+### Business Goals
+
+- Excellent UX to keep visitors on the site long enough to fill out the sign up form
+- Provide solutions for families to get active through cycling
+
+### Client Goals
+
+- Visitors are looking for comprehensive cycle route information for families with children
+- Easy path to download there chosen cycle route
 
 ## Features
 
