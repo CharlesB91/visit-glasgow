@@ -14,13 +14,12 @@ The aim of this website is to target forigen toursits visiting the city, natives
 
 ### Business Goals
 
-- Excellent UX to keep visitors on the site long enough to fill out the sign up form
-- Provide solutions for families to get active through cycling
+- To keep users well informed on what the city has to offer. By the eye catching UX design this will lead them to the news letter sign up page at the footer.
+- To provide a one stop shop for anyone looking to visit glasgow whom are curious on the events & tourist attactions.
 
 ### Client Goals
 
-- Visitors are looking for comprehensive cycle route information for families with children
-- Easy path to download there chosen cycle route
+- Tourisits are looking for a site which provides all events & tourist info and will lead them onto to the relevent 3rd party site if they wish to book.
 
 ## Features
 
