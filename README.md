@@ -65,7 +65,7 @@ Visit Glasgow is a site which has been designed to inform foreign tourists, nati
 
 ![Buchanan-Street](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/Buchanan-street.PNG)
 
-- This section allows the user to sign up to the weekly newsletter offered. The fields required are first name, surname, email address with an accompanying submit button.
+- This section allows the user to sign up to the weekly news letter offered. The fields required are first name, surname, email address with an accompanying submit button.
 - This features a basic sign up form highlighted in the same colour as the footer. This sign up form is not fully functional as backend technologies will be required which are outside the scope of this project.
 
 ![Sign-up](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/sign-up.PNG)
@@ -80,7 +80,7 @@ Visit Glasgow is a site which has been designed to inform foreign tourists, nati
 
 ### Responsive Testing
 
-- This page has been through extensive testing through google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also easily navigate through the site.
+- This page has been through extensive testing via google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also easily navigate through the site.
 - Additionally site has also been tested on (https://responsivedesignchecker.com/) for responsive behaviours
 
 ### Validator Testing
