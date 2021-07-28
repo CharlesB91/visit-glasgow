@@ -334,7 +334,7 @@ footer {
   text-decoration: none;
 }
 
-#image a:hover {
+.image a:hover {
   text-decoration: underline solid #3a3a3a;
 }
 
