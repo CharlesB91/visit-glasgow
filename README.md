@@ -103,10 +103,16 @@ The aim of this website is to target forigen toursits visiting the city, natives
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F)
-  - This was 1 warning and this is due to the home background section being empty as there is no text needed and background image is loaded via css file
+  - No errors were returned when passing through the official [W3C validator]
+  - Home Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Findex.html)
+  - Explore Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fexplore.html)
+  - News Letter Sign Up Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fcontact.html%3F)
+  - This was 2 warnings in for the home & new letter sign up page and this is due to the home background section being empty as there is no text needed as background image is loaded via css file
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when passing through the official [(Jigsaw) validator]
+  - Home Page (http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - Explore Page (http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fexplore.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - News Letter Sign Up Page (http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fcontact.html%3F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Accessibility Testing
 
