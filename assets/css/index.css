@@ -328,8 +328,8 @@ footer {
   padding: 10px;
 }
 
-#image a:link,
-#image > a:visited {
+.image a:link,
+.image > a:visited {
   color: #3a3a3a;
   text-decoration: none;
 }
