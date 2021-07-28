@@ -81,6 +81,7 @@ Visit Glasgow is a site which has been designed to inform foreign tourists, nati
 ### Responsive Testing
 
 - This page has been through extensive testing through google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also easily navigate through the site.
+- Additionally site has also been tested on (https://responsivedesignchecker.com/) for responsive behaviours
 
 ### Validator Testing
 
@@ -130,6 +131,7 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 - For the responsive hamburger nav bar. Originally the nav bar was responsive however the list options did not transform into the current hamburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
 - For the above example the source code, this has to be styled accordingly to how site was to be displayed with font, background colour.
 - For the what’s on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
+- The footer social icons for facebook, instagram, twitter were used from (https://fontawesome.com/)
 
 ## Content
 
