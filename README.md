@@ -21,6 +21,13 @@ The aim of this website is to target forigen toursits visiting the city, natives
 
 - Tourisits are looking for a site which provides all events & tourist info and will lead them onto to the relevent 3rd party site if they wish to book.
 
+### Wireframing
+
+- Intially i sketched my ideas on my note bad to try and visulise my idea. When i was happy witht his i created a simulation using balasmiq. 
+- Once i was happy with the lay out of the home page i decided to keep this consistant through the other 2 pages i had with nav bar at the top, background image, content then finally footer. 
+
+![Wireframe](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/wireframe-visit-glasgow.PNG)
+
 ## Features
 
 ### Home Page
