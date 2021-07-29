@@ -254,7 +254,7 @@ footer {
 
 /* //////// EXPLORE PAGE ///////// */
 
-/* Background image & front text */
+/* Background image & front text Box */
 
 #background2 {
   background-image: url(../images/museam.jpeg);
@@ -339,6 +339,8 @@ footer {
 }
 
 /* //////// NEWS LETTER PAGE ///////// */
+
+/* Background Image & Sign Up Form */
 
 #news-background {
   background-image: url("../images/main-street.jpeg");
