@@ -338,6 +338,10 @@ footer {
   text-decoration: underline solid #3a3a3a;
 }
 
+.image h2 {
+  padding: 10px 0;
+}
+
 /* //////// NEWS LETTER PAGE ///////// */
 
 /* Background Image & Sign Up Form */
