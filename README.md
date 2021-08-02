@@ -34,7 +34,6 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 **Navigation Bar**
 
-- Once decided on the layout of the homepage, I decided to keep this consistent throughout the additional two pages I had with nav bar at the top, background image, content then finally footer
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page. This fixture also collapses into a hamburger icon when the screen width is reduced to mobile screen size.
 - The particular bold colour which been chosen compliments the iconic ‘People Make Glasgow’ image below the navigation bar
