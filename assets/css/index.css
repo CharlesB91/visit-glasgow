@@ -477,7 +477,7 @@ input[type="submit"]:hover {
     font-size: 180%;
   }
   #background2,
-  #background-top {
+  #background-top, #newsbackground {
     background-position: top center;
     height: 500px;
   }
