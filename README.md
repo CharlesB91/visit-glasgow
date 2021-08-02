@@ -14,17 +14,17 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 ### Business Goals
 
-- To keep users well informed on what the city has to offer by creating an eye catching UX design whilst guiding them through an events section, tourist information, social media and contact to the newsletter sign up 
-- To provide a one-stop shop for anyone looking to visit Glasgow who are curious of the events and tourist attractions available and would like to get involved
+- To keep users well informed on what the city has to offer by creating an eye catching UX design whilst guiding them through an events section, tourist information, social media and contact to the newsletter sign up.
+- To provide a one-stop shop for anyone looking to visit Glasgow who are curious of the events and tourist attractions available and would like to get involved.
 
 ### Client Goals
 
-- Tourists are looking for a site which provides detailed information on all events and tourism in Glasgow. This will lead them onto to the relevant third party site if they wish to book on to the specific activity
+- Tourists are looking for a site which provides detailed information on all events and tourism in Glasgow. This will lead them onto to the relevant third party site if they wish to book on to the specific activity.
 
 ### Wireframing
 
 - Initially sketched my ideas on to my note pad to try and visualise my idea. When I was happy with this I created a simulation using balsamiq for the wireframe. 
-- Once decided on the layout of the homepage, I decided to keep this consistent throughout the additional two pages I had with nav bar at the top, background image, content then finally footer
+- Once decided on the layout of the homepage, I decided to keep this consistent throughout the additional two pages I had with nav bar at the top, background image, content then finally footer.
 
 ![Wireframe](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/wireframe-visit-glasgow.PNG)
 
@@ -36,7 +36,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page. This fixture also collapses into a hamburger icon when the screen width is reduced to mobile screen size.
-- The particular bold colour which been chosen compliments the iconic ‘People Make Glasgow’ image below the navigation bar
+- The particular bold colour which been chosen compliments the iconic ‘People Make Glasgow’ image below the navigation bar.
 
   ![Nav-Open](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-full.PNG)
   ![Nav-Closed](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-closed.PNG)
@@ -51,7 +51,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 ### What’s-On-Section
 
 - This section is an area which will inform the user of all fun/interesting events that are happening in the city right now. This ranges from drinks festivals, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to all types of people.
-- Each events provides a thumbnail photo and also a link in the heading on the event itself - this will take the user to the direct site of the event in which they wish to book tickets
+- Each events provides a thumbnail photo and also a link in the heading on the event itself - this will take the user to the direct site of the event in which they wish to book tickets.
 
 ![Whats-on](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/whats-on-mockup.PNG)
 
@@ -67,8 +67,8 @@ The aim of this website is to target forigen toursits, natives and the general p
 **Explore-Tourist-Info**
 
 - This section has been created to inform the user of the various bus tours, museums and historic Glasgow university tours available.
-- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience - I therefore created a separate page to host this aspect of the site
-- Each section i.e. bus tour, Kelvingrove Art Museum, Glasgow University has an accompanying image with some brief back-ground text to inform the user of what to expect. The headings also contain links if the user wishes to book tickets
+- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience - I therefore created a separate page to host this aspect of the site.
+- Each section i.e. bus tour, Kelvingrove Art Museum, Glasgow University has an accompanying image with some brief back-ground text to inform the user of what to expect. The headings also contain links if the user wishes to book tickets.
 
 ![Explore-tourist-info](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/get-exploring-mockup.PNG)
 
@@ -77,7 +77,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 - The footer section includes links to the relevant social media sites (Facebook, Instagram, Twitter) for Visit Glasgow. The links will open to a new tab to allow easy navigation for the user. This also contains contact info ie email, address & telephone number if a user wishes to get in direct contact with the site.
 - The footer finally includes a newsletter sign up button which leads the user onto the news-letter sign up page.
 
-- The footer can be viewed in the home, explore, news-letter page. This can also be accessed via the nav bar
+- The footer can be viewed in the home, explore, news-letter page. This can also be accessed via the nav bar.
 
 ![Footer-image](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/footer-mockp.PNG)
 
@@ -85,7 +85,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 **Newsletter Background**
 
-- This includes a photo of the famous Buchanan Street which full of high-end designer stores which can be seen packed with shoppers
+- This includes a photo of the famous Buchanan Street which full of high-end designer stores which can be seen packed with shoppers.
 
 ![Buchanan-Street](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/Buchanan-street.PNG)
 
@@ -105,7 +105,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 ### Responsive Testing
 
 - This page has been through extensive testing via google chrome developer tools so that any user using desktop, tablet, mobile device will have a great experience seeing all the visual and text content but also easily navigate through the site.
-- Additionally site has also been tested on (https://responsivedesignchecker.com/) for responsive behaviours
+- Additionally site has also been tested on (https://responsivedesignchecker.com/) for responsive behaviours.
 
 ### Validator Testing
 
@@ -114,7 +114,7 @@ The aim of this website is to target forigen toursits, natives and the general p
   - Home Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Findex.html)
   - Explore Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fexplore.html)
   - News Letter Sign Up Page (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Fcontact.html%3F)
-  - This was 2 warnings in for the home & new letter sign up page and this is due to the home background section being empty as there is no text needed as background image is loaded via css file
+  - This was 2 warnings in for the home & new letter sign up page and this is due to the home background section being empty as there is no text needed as background image is loaded via css file.
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]
   - Home Page (http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcharlesb91.github.io%2Fvisit-glasgow%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -147,8 +147,8 @@ The aim of this website is to target forigen toursits, natives and the general p
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the source section drop-down menu, select the Master Branch.
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://charlesb91.github.io/visit-glasgow/
@@ -157,7 +157,7 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 
 - There has been various sources of credit used for this site.
 - Font choice was taking from google fonts (https://fonts.google.com/). There was two main fonts used in the site for heads and paragraphs which have effective contrasting features - "Montserrat", sans-serif;, "Zen Tokyo Zoo", cursive;
-- There was 3 main colour choices taken from (https://colorhunt.co/) which helped outline the nav bar, footer and sign up page and finally text. #bf1363; #fb9300; #3a3a3a
+- There was 3 main colour choices taken from (https://colorhunt.co/) which helped outline the nav bar, footer and sign up page and finally text. #bf1363; #fb9300; #3a3a3a.
 - For the responsive hamburger nav bar. Originally the nav bar was responsive however the list options did not transform into the current hamburger nav bar. I sourced code from the following code pen example (https://codepen.io/mutedblues/pen/MmPNPG)
 - For the above example the source code, this has to be styled accordingly to how the site was to be displayed with font, background colour.
 - For the what’s on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
