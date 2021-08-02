@@ -162,6 +162,7 @@ The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 - For the above example the source code, this has to be styled accordingly to how the site was to be displayed with font, background colour.
 - For the what’s on section & explore which includes images of the various events, attractions i used (https://www.w3schools.com/css/css3_flexbox_responsive.asp) to help guide me on the best way to lay out the images in a responsive mode.
 - The footer social icons for facebook, instagram, twitter were used from (https://fontawesome.com/)
+- Background-text in explore page idea was taken from love running walk through project. Have used some of this code for position and responsive behaviour however dimensions changed accordingly to my own specification.
 
 ## Content
 
