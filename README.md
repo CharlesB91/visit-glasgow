@@ -1,6 +1,6 @@
 # Visit Glasgow
 
-Visit Glasgow is a site which has been designed inform users on events being hosted in the city of Glasgow. This also includes details on the main tourist attractions the city has to offer which attracts visitors from all over the globe. This site is particularly useful as it provides direct links to the various events & popular tourist hot spots but ultimately gives you a vibe on how exiting the city is.
+Visit Glasgow is a site which has been designed ‘to’ inform users of events being hosted in the city of Glasgow. This includes details of the main tourist attractions the city has to offer while attracting visitors from all over the globe. The Visit Glasgow site is particularly useful as it provides direct links to the various events and popular tourist hot spots - it ultimately demonstrates how exiting the city is.
 
 The live link can be found here - https://charlesb91.github.io/visit-glasgow/
 
@@ -14,17 +14,17 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 ### Business Goals
 
-- To keep users well informed on what the city has to offer by the eye catching UX design whilst guiding them through an events section, tourist information, social media & contact to the newsletter sign up. 
-- To provide a one stop shop for anyone looking to visit glasgow who are curious on the events & tourist attractions and want to get involved
+- To keep users well informed on what the city has to offer by creating an eye catching UX design whilst guiding them through an events section, tourist information, social media and contact to the newsletter sign up 
+- To provide a one-stop shop for anyone looking to visit Glasgow who are curious of the events and tourist attractions available and would like to get involved
 
 ### Client Goals
 
-- Tourists are looking for a site which provides all detailed info on all events & tourism. This will lead them onto to the relevant 3rd party site if they wish to book on the specific activity.
+- Tourists are looking for a site which provides detailed information on all events and tourism in Glasgow. This will lead them onto to the relevant third party site if they wish to book on to the specific activity
 
 ### Wireframing
 
 - Initially sketched my ideas on to my note pad to try and visualise my idea. When I was happy with this I created a simulation using balsamiq for the wireframe. 
-- Once decided on the lay out of the home page i decided to keep this consistent through the other 2 pages i had with nav bar at the top, background image, content then finally footer. 
+- Once decided on the layout of the homepage, I decided to keep this consistent throughout the additional two pages I had with nav bar at the top, background image, content then finally footer
 
 ![Wireframe](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/wireframe-visit-glasgow.PNG)
 
@@ -34,10 +34,10 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 **Navigation Bar**
 
-- Featured on all 4 pages, the full responsive navigation bar includes links to Home, What's on, Explore and finally social contact section. This is identical in each page to allow for easy navigation.
+- Once decided on the layout of the homepage, I decided to keep this consistent throughout the additional two pages I had with nav bar at the top, background image, content then finally footer
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 - Additionally the nav bar is on a fixed position so the user does not need to scroll back to the top of the page if they wish to change page. This fixture also collapses into a hamburger icon when the screen width is reduced to mobile screen size.
-- The particular bold colour which been chosen which compliments the famous people make Glasgow image below the navigation bar.
+- The particular bold colour which been chosen compliments the iconic ‘People Make Glasgow’ image below the navigation bar
 
   ![Nav-Open](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-full.PNG)
   ![Nav-Closed](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/nav-closed.PNG)
@@ -52,7 +52,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 ### What’s-On-Section
 
 - This section is an area which will inform the user of all fun/interesting events that are happening in the city right now. This ranges from drinks festivals, music festivals, mini golf, art, food festival. This section covers various types of events which is attractive to all types of people.
-- Each events provides a thumb nail photo and also a link in the heading on the event its self so this will take the user to a direct site of that event if they wish to book tickets.
+- Each events provides a thumbnail photo and also a link in the heading on the event itself - this will take the user to the direct site of the event in which they wish to book tickets
 
 ![Whats-on](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/whats-on-mockup.PNG)
 
@@ -68,8 +68,8 @@ The aim of this website is to target forigen toursits, natives and the general p
 **Explore-Tourist-Info**
 
 - This section has been created to inform the user of the various bus tours, museums and historic Glasgow university tours available.
-- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience so felt this should be on a separate page.
-- Each section ie bus tour, Kelvingrove art museum, Glasgow University has an accompanying image with some brief back-ground text to inform the user of what to expect. The headings also contain links if the user wishes to book tickets.
+- This is focused more on the conventional tourist who is keen to explore the historical aspects of the city which applies to a different audience - I therefore created a separate page to host this aspect of the site
+- Each section i.e. bus tour, Kelvingrove Art Museum, Glasgow University has an accompanying image with some brief back-ground text to inform the user of what to expect. The headings also contain links if the user wishes to book tickets
 
 ![Explore-tourist-info](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/get-exploring-mockup.PNG)
 
