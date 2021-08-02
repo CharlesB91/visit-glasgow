@@ -79,7 +79,7 @@ The aim of this website is to target forigen toursits, natives and the general p
 
 - The footer can be viewed in the home, explore, news-letter page. This can also be accessed via the nav bar.
 
-![Footer-image](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/footer-mockp.PNG)
+![Footer-image](https://github.com/CharlesB91/visit-glasgow/blob/master/assets/images/mock-ups/footer-mockup.PNG)
 
 ### News Letter Page
 
